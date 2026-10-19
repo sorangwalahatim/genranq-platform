@@ -1,0 +1,31 @@
+/* Growth group (leads, marketplace, free tools) — uses the shared design tokens only. */
+.gq-subnav { display: flex; gap: 4px; flex-wrap: wrap; margin: -4px 0 16px; }
+.gq-subnav a { padding: 5px 11px; border-radius: 999px; font-size: 13px; color: var(--muted); text-decoration: none; border: 1px solid var(--line); background: var(--surface); }
+.gq-subnav a.active { color: var(--accent); border-color: var(--accent); background: var(--accent-soft); font-weight: 500; }
+.gq-code { background: var(--surface-2); border: 1px solid var(--line); border-radius: var(--radius-sm); padding: 10px 12px; font-size: 12px; overflow-x: auto; white-space: pre-wrap; word-break: break-all; margin: 6px 0 0; }
+.gq-kanban { display: grid; grid-template-columns: repeat(5, minmax(200px, 1fr)); gap: 12px; overflow-x: auto; padding-bottom: 8px; }
+.gq-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-sm); padding: 9px 10px; margin-bottom: 8px; cursor: pointer; font-size: 13px; }
+.gq-card:hover { border-color: var(--accent); }
+.gq-card b { display: block; font-weight: 500; color: var(--ink); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.gq-timeline { list-style: none; padding: 0; margin: 0; border-left: 2px solid var(--line); }
+.gq-timeline li { position: relative; padding: 0 0 12px 14px; font-size: 13px; }
+.gq-timeline li::before { content: ""; position: absolute; left: -6px; top: 4px; width: 10px; height: 10px; border-radius: 50%; background: var(--surface); border: 2px solid var(--accent); }
+.gq-filters { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 10px; }
+.gq-filters label { font-size: 12px; color: var(--muted); display: flex; flex-direction: column; gap: 4px; }
+.gq-metric { display: inline-flex; flex-direction: column; min-width: 44px; }
+.gq-metric small { color: var(--faint); font-size: 10.5px; }
+.gq-verified { color: var(--pass); font-size: 11px; }
+.gq-selfrep { color: var(--faint); font-size: 11px; }
+.gq-field-row { display: grid; grid-template-columns: 1.1fr 1.4fr 1fr 1fr auto auto; gap: 8px; align-items: center; padding: 8px 0; border-bottom: 1px solid var(--line-2); }
+.gq-public { min-height: 100vh; background: var(--paper); display: flex; justify-content: center; padding: 32px 16px; }
+.gq-public.embed { padding: 0; min-height: 0; background: transparent; }
+.gq-public-card { width: 100%; max-width: 620px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: 24px; align-self: flex-start; }
+.gq-public-card.wide { max-width: 900px; }
+.gq-public-card h1 { font-size: 22px; margin: 0 0 6px; }
+.gq-hp { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
+.gq-bar { height: 8px; background: var(--line-2); border-radius: 4px; overflow: hidden; }
+.gq-bar > div { height: 100%; background: var(--accent); }
+@media (max-width: 760px) {
+  .gq-field-row { grid-template-columns: 1fr 1fr; }
+  .gq-kanban { grid-template-columns: repeat(5, 220px); }
+}

@@ -1,0 +1,49 @@
+/* Social group screens — uses the shared design tokens from styles.css */
+.ch-tag { display: inline-flex; align-items: center; height: 20px; padding: 0 7px; border-radius: 10px; font-size: 11.5px; font-weight: 500;
+  background: var(--surface-2); color: var(--ink-2); border: 1px solid var(--line); white-space: nowrap; }
+.ch-tag::before { content: ""; width: 6px; height: 6px; border-radius: 50%; margin-right: 5px; background: var(--faint); }
+.ch-facebook::before { background: #1877f2; } .ch-instagram::before { background: #d62976; }
+.ch-linkedin::before { background: #0a66c2; } .ch-x::before { background: var(--ink); } .ch-gbp::before { background: #34a853; }
+
+.cal-toolbar { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-bottom: 12px; }
+.cal-toolbar h2 { font-size: 16px; min-width: 190px; }
+.cal-layout { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 16px; align-items: start; }
+.cal-grid { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); border-top: 1px solid var(--line); border-left: 1px solid var(--line);
+  background: var(--surface); border-radius: 10px; overflow: hidden; }
+.cal-dow { padding: 6px 8px; font-size: 12px; color: var(--muted); border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); background: var(--surface-2); }
+.cal-day { min-height: 112px; padding: 6px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); display: flex; flex-direction: column; gap: 4px; }
+.cal-grid.week .cal-day { min-height: 420px; }
+.cal-day.other { background: var(--surface-2); }
+.cal-day.today .cal-num { background: var(--accent); color: #fff; }
+.cal-day.drop { outline: 2px dashed var(--accent); outline-offset: -3px; background: var(--accent-soft); }
+.cal-num { font-family: var(--font-num); font-size: 12px; width: 22px; height: 22px; border-radius: 11px; display: inline-grid; place-items: center; }
+.cal-ev { font-size: 12px; line-height: 1.3; padding: 4px 6px; border-radius: 6px; background: var(--surface-2); border: 1px solid var(--line);
+  border-left: 3px solid var(--accent); cursor: pointer; overflow: hidden; }
+.cal-ev[draggable="true"] { cursor: grab; }
+.cal-ev .t { font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cal-ev .m { color: var(--muted); font-size: 11px; display: flex; gap: 4px; align-items: center; }
+.cal-ev.st-published { border-left-color: var(--pass); }
+.cal-ev.st-failed { border-left-color: var(--critical); }
+.cal-ev.st-cancelled { opacity: .55; text-decoration: line-through; }
+.cal-ev.kind-gbp_post { border-left-color: #34a853; }
+.side-item { padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); font-size: 12.5px; cursor: grab; }
+.side-item + .side-item { margin-top: 6px; }
+
+.board { display: grid; grid-template-columns: repeat(7, minmax(170px, 1fr)); gap: 10px; overflow-x: auto; padding-bottom: 6px; }
+.board .col { min-height: 160px; }
+.board .card { font-size: 12.5px; }
+.board .card .body { color: var(--muted); margin-top: 4px; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+
+.chips { display: flex; gap: 6px; flex-wrap: wrap; }
+.chip { border: 1px solid var(--line); border-radius: 14px; padding: 3px 10px; font-size: 12.5px; cursor: pointer; background: var(--surface); user-select: none; }
+.chip.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); font-weight: 500; }
+.code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12.5px; background: var(--surface-2); border: 1px solid var(--line);
+  border-radius: 6px; padding: 8px 10px; word-break: break-all; }
+.preview-portal { border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+.preview-portal .bar { padding: 10px 14px; color: #fff; display: flex; align-items: center; gap: 10px; font-weight: 600; }
+.preview-portal .bar img { height: 24px; }
+.preview-portal .body { padding: 14px; background: var(--surface-2); font-size: 13px; color: var(--muted); }
+.steps { margin: 0; padding-left: 20px; } .steps li { margin: 6px 0; }
+
+@media (max-width: 1100px) { .cal-layout { grid-template-columns: 1fr; } }
+@media (max-width: 720px) { .cal-day { min-height: 70px; } .cal-ev .m { display: none; } }

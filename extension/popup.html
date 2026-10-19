@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Genranq</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <header><span class="logo" aria-hidden="true">G</span><b>Genranq</b><span id="who" class="muted"></span></header>
+
+  <section id="login" hidden>
+    <p class="muted">Create an extension token in Genranq under <b>Extension</b>, then paste it here.</p>
+    <label>Genranq address<input id="apiBase" type="url" placeholder="https://app.youragency.com" required /></label>
+    <label>Extension token<input id="token" type="password" placeholder="gqx_…" autocomplete="off" required /></label>
+    <button id="signin" class="primary">Sign in</button>
+  </section>
+
+  <section id="main" hidden>
+    <label>Project<select id="project"></select></label>
+    <div id="page" class="page muted"></div>
+    <div class="actions">
+      <button id="audit" class="primary">Audit this site</button>
+      <button id="keyword">Track this keyword</button>
+      <button id="competitor">Save business as competitor</button>
+    </div>
+    <label class="inline">Max pages <input id="maxPages" type="number" min="1" max="2000" value="100" /></label>
+    <button id="signout" class="link">Sign out</button>
+  </section>
+
+  <div id="msg" role="status" aria-live="polite"></div>
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+# Node / Frontend
+node_modules/
+frontend/dist/
+dist/
+*.tsbuildinfo
+
+# Python
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Storage and Logs
+backend/storage/
+*.log
+pgsql/
+
+# Environment and Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+

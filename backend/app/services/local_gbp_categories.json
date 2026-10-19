@@ -1,0 +1,3999 @@
+[
+{
+"name": "Plumber",
+"group": "Home services",
+"keywords": [
+"plumbing",
+"pipes",
+"leak",
+"drain",
+"toilet",
+"tap",
+"faucet",
+"water heater",
+"boiler",
+"blocked drain",
+"burst pipe"
+]
+},
+{
+"name": "Emergency plumber",
+"group": "Home services",
+"keywords": [
+"24 hour plumber",
+"emergency plumbing",
+"burst pipe",
+"urgent leak"
+]
+},
+{
+"name": "Drainage service",
+"group": "Home services",
+"keywords": [
+"drain unblocking",
+"blocked drain",
+"drain cleaning",
+"cctv drain",
+"sewer"
+]
+},
+{
+"name": "Septic system service",
+"group": "Home services",
+"keywords": [
+"septic tank",
+"septic pumping",
+"cesspool"
+]
+},
+{
+"name": "Water heater installation service",
+"group": "Home services",
+"keywords": [
+"hot water",
+"water heater",
+"tankless",
+"geyser"
+]
+},
+{
+"name": "Gas engineer",
+"group": "Home services",
+"keywords": [
+"gas safe",
+"gas boiler",
+"gas fitting",
+"gas leak"
+]
+},
+{
+"name": "Boiler supplier",
+"group": "Home services",
+"keywords": [
+"boiler",
+"combi boiler"
+]
+},
+{
+"name": "Heating contractor",
+"group": "Home services",
+"keywords": [
+"heating",
+"furnace",
+"central heating",
+"radiator",
+"boiler service"
+]
+},
+{
+"name": "Air conditioning contractor",
+"group": "Home services",
+"keywords": [
+"air conditioning",
+"ac",
+"aircon",
+"cooling",
+"ductless",
+"split system"
+]
+},
+{
+"name": "HVAC contractor",
+"group": "Home services",
+"keywords": [
+"hvac",
+"heating",
+"cooling",
+"ventilation",
+"furnace",
+"heat pump",
+"air conditioning"
+]
+},
+{
+"name": "Air duct cleaning service",
+"group": "Home services",
+"keywords": [
+"duct cleaning",
+"air duct",
+"vent cleaning"
+]
+},
+{
+"name": "Electrician",
+"group": "Home services",
+"keywords": [
+"electrical",
+"wiring",
+"rewire",
+"fuse box",
+"lighting",
+"switchboard",
+"outlets",
+"ev charger"
+]
+},
+{
+"name": "Emergency electrician",
+"group": "Home services",
+"keywords": [
+"24 hour electrician",
+"power outage",
+"electrical emergency"
+]
+},
+{
+"name": "Electrical installation service",
+"group": "Home services",
+"keywords": [
+"ev charger installation",
+"electrical installation"
+]
+},
+{
+"name": "Lighting contractor",
+"group": "Home services",
+"keywords": [
+"lighting",
+"led",
+"outdoor lighting"
+]
+},
+{
+"name": "Solar energy contractor",
+"group": "Home services",
+"keywords": [
+"solar",
+"solar panels",
+"photovoltaic",
+"pv"
+]
+},
+{
+"name": "Solar energy system service",
+"group": "Home services",
+"keywords": [
+"solar repair",
+"solar maintenance",
+"inverter"
+]
+},
+{
+"name": "Roofing contractor",
+"group": "Home services",
+"keywords": [
+"roof",
+"roofing",
+"roofer",
+"shingles",
+"gutters",
+"roof repair",
+"flat roof",
+"leaking roof"
+]
+},
+{
+"name": "Roof repair service",
+"group": "Home services",
+"keywords": [
+"roof leak",
+"roof repair"
+]
+},
+{
+"name": "Gutter cleaning service",
+"group": "Home services",
+"keywords": [
+"gutter",
+"gutters",
+"gutter cleaning",
+"downpipe"
+]
+},
+{
+"name": "Siding contractor",
+"group": "Home services",
+"keywords": [
+"siding",
+"cladding"
+]
+},
+{
+"name": "Window installation service",
+"group": "Home services",
+"keywords": [
+"windows",
+"double glazing",
+"window replacement"
+]
+},
+{
+"name": "Window cleaning service",
+"group": "Home services",
+"keywords": [
+"window cleaning",
+"window washing"
+]
+},
+{
+"name": "Glass repair service",
+"group": "Home services",
+"keywords": [
+"glass",
+"glazier",
+"broken window"
+]
+},
+{
+"name": "Door supplier",
+"group": "Home services",
+"keywords": [
+"doors",
+"front door",
+"door installation"
+]
+},
+{
+"name": "Garage door supplier",
+"group": "Home services",
+"keywords": [
+"garage door",
+"roller door",
+"garage door repair"
+]
+},
+{
+"name": "Locksmith",
+"group": "Home services",
+"keywords": [
+"locks",
+"lockout",
+"keys",
+"rekey",
+"lock change",
+"emergency locksmith"
+]
+},
+{
+"name": "Security system installation service",
+"group": "Home services",
+"keywords": [
+"alarm",
+"cctv",
+"security cameras",
+"intruder alarm"
+]
+},
+{
+"name": "General contractor",
+"group": "Home services",
+"keywords": [
+"builder",
+"construction",
+"renovation",
+"remodel",
+"extension",
+"home improvement"
+]
+},
+{
+"name": "Construction company",
+"group": "Home services",
+"keywords": [
+"construction",
+"commercial construction",
+"builder"
+]
+},
+{
+"name": "Home builder",
+"group": "Home services",
+"keywords": [
+"new homes",
+"custom homes",
+"home building"
+]
+},
+{
+"name": "Remodeler",
+"group": "Home services",
+"keywords": [
+"remodel",
+"remodeling",
+"renovation",
+"kitchen remodel",
+"bathroom remodel"
+]
+},
+{
+"name": "Kitchen remodeler",
+"group": "Home services",
+"keywords": [
+"kitchen",
+"kitchen renovation",
+"kitchen fitting",
+"cabinets"
+]
+},
+{
+"name": "Bathroom remodeler",
+"group": "Home services",
+"keywords": [
+"bathroom",
+"bathroom renovation",
+"shower",
+"wet room",
+"tiling"
+]
+},
+{
+"name": "Kitchen supply store",
+"group": "Home services",
+"keywords": [
+"kitchen units",
+"worktops"
+]
+},
+{
+"name": "Cabinet maker",
+"group": "Home services",
+"keywords": [
+"cabinets",
+"joinery",
+"cabinetry"
+]
+},
+{
+"name": "Carpenter",
+"group": "Home services",
+"keywords": [
+"carpentry",
+"joinery",
+"woodwork",
+"decking",
+"framing"
+]
+},
+{
+"name": "Handyman",
+"group": "Home services",
+"keywords": [
+"handyman",
+"odd jobs",
+"repairs",
+"maintenance",
+"assembly",
+"furniture assembly"
+]
+},
+{
+"name": "Painter",
+"group": "Home services",
+"keywords": [
+"painting",
+"decorating",
+"interior painting",
+"exterior painting",
+"wallpaper"
+]
+},
+{
+"name": "Painting contractor",
+"group": "Home services",
+"keywords": [
+"commercial painting",
+"house painting"
+]
+},
+{
+"name": "Drywall contractor",
+"group": "Home services",
+"keywords": [
+"drywall",
+"plastering",
+"plasterboard"
+]
+},
+{
+"name": "Plasterer",
+"group": "Home services",
+"keywords": [
+"plastering",
+"rendering",
+"skimming"
+]
+},
+{
+"name": "Flooring contractor",
+"group": "Home services",
+"keywords": [
+"flooring",
+"hardwood",
+"laminate",
+"vinyl",
+"floor installation"
+]
+},
+{
+"name": "Flooring store",
+"group": "Home services",
+"keywords": [
+"flooring",
+"carpet",
+"tiles"
+]
+},
+{
+"name": "Carpet installer",
+"group": "Home services",
+"keywords": [
+"carpet",
+"carpet fitting"
+]
+},
+{
+"name": "Carpet cleaning service",
+"group": "Home services",
+"keywords": [
+"carpet cleaning",
+"rug cleaning",
+"upholstery cleaning",
+"steam cleaning"
+]
+},
+{
+"name": "Tile contractor",
+"group": "Home services",
+"keywords": [
+"tiles",
+"tiling",
+"tiler"
+]
+},
+{
+"name": "Concrete contractor",
+"group": "Home services",
+"keywords": [
+"concrete",
+"driveway",
+"slab",
+"foundation",
+"patio"
+]
+},
+{
+"name": "Paving contractor",
+"group": "Home services",
+"keywords": [
+"paving",
+"asphalt",
+"driveway",
+"block paving",
+"tarmac"
+]
+},
+{
+"name": "Masonry contractor",
+"group": "Home services",
+"keywords": [
+"masonry",
+"brickwork",
+"stonework",
+"chimney"
+]
+},
+{
+"name": "Bricklayer",
+"group": "Home services",
+"keywords": [
+"bricklaying",
+"brickwork",
+"walls"
+]
+},
+{
+"name": "Chimney sweep",
+"group": "Home services",
+"keywords": [
+"chimney",
+"chimney sweep",
+"chimney cleaning",
+"fireplace"
+]
+},
+{
+"name": "Fence contractor",
+"group": "Home services",
+"keywords": [
+"fence",
+"fencing",
+"gates"
+]
+},
+{
+"name": "Deck builder",
+"group": "Home services",
+"keywords": [
+"deck",
+"decking",
+"pergola"
+]
+},
+{
+"name": "Landscaper",
+"group": "Home services",
+"keywords": [
+"landscaping",
+"garden design",
+"hardscape",
+"turf",
+"planting",
+"garden"
+]
+},
+{
+"name": "Landscape designer",
+"group": "Home services",
+"keywords": [
+"garden design",
+"landscape design"
+]
+},
+{
+"name": "Lawn care service",
+"group": "Home services",
+"keywords": [
+"lawn",
+"mowing",
+"grass cutting",
+"lawn care",
+"fertilisation"
+]
+},
+{
+"name": "Gardener",
+"group": "Home services",
+"keywords": [
+"gardening",
+"garden maintenance",
+"hedge trimming",
+"weeding"
+]
+},
+{
+"name": "Tree service",
+"group": "Home services",
+"keywords": [
+"tree",
+"tree removal",
+"tree trimming",
+"arborist",
+"stump grinding",
+"tree surgeon"
+]
+},
+{
+"name": "Arborist service",
+"group": "Home services",
+"keywords": [
+"arborist",
+"tree surgeon",
+"tree care"
+]
+},
+{
+"name": "Irrigation equipment supplier",
+"group": "Home services",
+"keywords": [
+"irrigation",
+"sprinkler"
+]
+},
+{
+"name": "Sprinkler contractor",
+"group": "Home services",
+"keywords": [
+"sprinkler",
+"irrigation system"
+]
+},
+{
+"name": "Swimming pool contractor",
+"group": "Home services",
+"keywords": [
+"pool",
+"swimming pool",
+"pool installation"
+]
+},
+{
+"name": "Swimming pool repair service",
+"group": "Home services",
+"keywords": [
+"pool repair",
+"pool cleaning",
+"pool maintenance"
+]
+},
+{
+"name": "Pest control service",
+"group": "Home services",
+"keywords": [
+"pest control",
+"exterminator",
+"termite",
+"rodent",
+"bed bugs",
+"cockroach",
+"wasps",
+"mice",
+"rats"
+]
+},
+{
+"name": "Termite control service",
+"group": "Home services",
+"keywords": [
+"termite",
+"termites"
+]
+},
+{
+"name": "Wildlife and animal control service",
+"group": "Home services",
+"keywords": [
+"wildlife removal",
+"raccoon",
+"possum",
+"bats"
+]
+},
+{
+"name": "House cleaning service",
+"group": "Home services",
+"keywords": [
+"house cleaning",
+"home cleaning",
+"maid",
+"cleaner",
+"domestic cleaning",
+"deep clean",
+"end of tenancy"
+]
+},
+{
+"name": "Commercial cleaning service",
+"group": "Home services",
+"keywords": [
+"office cleaning",
+"commercial cleaning",
+"janitorial"
+]
+},
+{
+"name": "Janitorial service",
+"group": "Home services",
+"keywords": [
+"janitorial",
+"custodial"
+]
+},
+{
+"name": "Pressure washing service",
+"group": "Home services",
+"keywords": [
+"pressure washing",
+"power washing",
+"jet washing"
+]
+},
+{
+"name": "Junk removal service",
+"group": "Home services",
+"keywords": [
+"junk removal",
+"rubbish removal",
+"clearance",
+"hauling"
+]
+},
+{
+"name": "Waste management service",
+"group": "Home services",
+"keywords": [
+"waste",
+"skip hire",
+"dumpster rental",
+"rubbish"
+]
+},
+{
+"name": "Dumpster rental service",
+"group": "Home services",
+"keywords": [
+"dumpster",
+"skip",
+"roll off"
+]
+},
+{
+"name": "Moving company",
+"group": "Home services",
+"keywords": [
+"moving",
+"movers",
+"removals",
+"relocation",
+"house move",
+"packing"
+]
+},
+{
+"name": "Mover",
+"group": "Home services",
+"keywords": [
+"movers",
+"moving help"
+]
+},
+{
+"name": "Moving and storage service",
+"group": "Home services",
+"keywords": [
+"storage",
+"moving storage"
+]
+},
+{
+"name": "Self-storage facility",
+"group": "Home services",
+"keywords": [
+"self storage",
+"storage units",
+"storage"
+]
+},
+{
+"name": "Appliance repair service",
+"group": "Home services",
+"keywords": [
+"appliance repair",
+"washing machine repair",
+"fridge repair",
+"oven repair",
+"dryer repair",
+"dishwasher repair"
+]
+},
+{
+"name": "Furniture store",
+"group": "Home services",
+"keywords": [
+"furniture",
+"sofas",
+"beds",
+"tables"
+]
+},
+{
+"name": "Mattress store",
+"group": "Home services",
+"keywords": [
+"mattress",
+"mattresses",
+"beds"
+]
+},
+{
+"name": "Interior designer",
+"group": "Home services",
+"keywords": [
+"interior design",
+"home staging",
+"decor"
+]
+},
+{
+"name": "Home inspector",
+"group": "Home services",
+"keywords": [
+"home inspection",
+"building inspection",
+"property inspection"
+]
+},
+{
+"name": "Insulation contractor",
+"group": "Home services",
+"keywords": [
+"insulation",
+"loft insulation",
+"attic insulation",
+"spray foam"
+]
+},
+{
+"name": "Waterproofing service",
+"group": "Home services",
+"keywords": [
+"waterproofing",
+"basement waterproofing",
+"damp proofing"
+]
+},
+{
+"name": "Water damage restoration service",
+"group": "Home services",
+"keywords": [
+"water damage",
+"flood damage",
+"restoration",
+"mould remediation"
+]
+},
+{
+"name": "Mold abatement service",
+"group": "Home services",
+"keywords": [
+"mold",
+"mould",
+"remediation"
+]
+},
+{
+"name": "Fire damage restoration service",
+"group": "Home services",
+"keywords": [
+"fire damage",
+"smoke damage"
+]
+},
+{
+"name": "Foundation repair service",
+"group": "Home services",
+"keywords": [
+"foundation",
+"underpinning",
+"subsidence"
+]
+},
+{
+"name": "Demolition contractor",
+"group": "Home services",
+"keywords": [
+"demolition",
+"strip out"
+]
+},
+{
+"name": "Excavating contractor",
+"group": "Home services",
+"keywords": [
+"excavation",
+"earthworks",
+"digging"
+]
+},
+{
+"name": "Scaffolding service",
+"group": "Home services",
+"keywords": [
+"scaffolding"
+]
+},
+{
+"name": "Welder",
+"group": "Home services",
+"keywords": [
+"welding",
+"fabrication",
+"steel"
+]
+},
+{
+"name": "Metal fabricator",
+"group": "Home services",
+"keywords": [
+"metal fabrication",
+"steelwork"
+]
+},
+{
+"name": "Upholstery shop",
+"group": "Home services",
+"keywords": [
+"upholstery",
+"reupholstery"
+]
+},
+{
+"name": "Blind shop",
+"group": "Home services",
+"keywords": [
+"blinds",
+"shutters",
+"curtains"
+]
+},
+{
+"name": "Dentist",
+"group": "Health and medical",
+"keywords": [
+"dental",
+"dentist",
+"teeth",
+"tooth",
+"checkup",
+"fillings",
+"crowns",
+"cleaning",
+"hygienist"
+]
+},
+{
+"name": "Cosmetic dentist",
+"group": "Health and medical",
+"keywords": [
+"cosmetic dentistry",
+"veneers",
+"teeth whitening",
+"smile makeover"
+]
+},
+{
+"name": "Emergency dental service",
+"group": "Health and medical",
+"keywords": [
+"emergency dentist",
+"toothache"
+]
+},
+{
+"name": "Orthodontist",
+"group": "Health and medical",
+"keywords": [
+"orthodontics",
+"braces",
+"invisalign",
+"aligners"
+]
+},
+{
+"name": "Pediatric dentist",
+"group": "Health and medical",
+"keywords": [
+"children dentist",
+"kids dentist",
+"paediatric dentistry"
+]
+},
+{
+"name": "Dental implants periodontist",
+"group": "Health and medical",
+"keywords": [
+"dental implants",
+"implants",
+"periodontics",
+"gum disease"
+]
+},
+{
+"name": "Endodontist",
+"group": "Health and medical",
+"keywords": [
+"root canal",
+"endodontics"
+]
+},
+{
+"name": "Oral surgeon",
+"group": "Health and medical",
+"keywords": [
+"oral surgery",
+"wisdom teeth",
+"extraction"
+]
+},
+{
+"name": "Dental clinic",
+"group": "Health and medical",
+"keywords": [
+"dental clinic",
+"dental practice"
+]
+},
+{
+"name": "Doctor",
+"group": "Health and medical",
+"keywords": [
+"doctor",
+"gp",
+"physician",
+"primary care",
+"medical"
+]
+},
+{
+"name": "Family practice physician",
+"group": "Health and medical",
+"keywords": [
+"family doctor",
+"family medicine"
+]
+},
+{
+"name": "Medical clinic",
+"group": "Health and medical",
+"keywords": [
+"clinic",
+"medical centre",
+"walk in"
+]
+},
+{
+"name": "Urgent care center",
+"group": "Health and medical",
+"keywords": [
+"urgent care",
+"walk in clinic"
+]
+},
+{
+"name": "Pediatrician",
+"group": "Health and medical",
+"keywords": [
+"pediatrics",
+"children doctor",
+"paediatrician"
+]
+},
+{
+"name": "Dermatologist",
+"group": "Health and medical",
+"keywords": [
+"dermatology",
+"skin",
+"acne",
+"mole",
+"eczema"
+]
+},
+{
+"name": "Cardiologist",
+"group": "Health and medical",
+"keywords": [
+"cardiology",
+"heart"
+]
+},
+{
+"name": "Orthopedic surgeon",
+"group": "Health and medical",
+"keywords": [
+"orthopaedics",
+"orthopedic",
+"joint",
+"knee",
+"hip"
+]
+},
+{
+"name": "Plastic surgeon",
+"group": "Health and medical",
+"keywords": [
+"plastic surgery",
+"cosmetic surgery",
+"breast",
+"rhinoplasty"
+]
+},
+{
+"name": "Ophthalmologist",
+"group": "Health and medical",
+"keywords": [
+"ophthalmology",
+"eye surgery",
+"cataract",
+"lasik"
+]
+},
+{
+"name": "Optometrist",
+"group": "Health and medical",
+"keywords": [
+"optometrist",
+"eye test",
+"eye exam",
+"glasses",
+"contact lenses"
+]
+},
+{
+"name": "Optician",
+"group": "Health and medical",
+"keywords": [
+"optician",
+"glasses",
+"spectacles",
+"frames"
+]
+},
+{
+"name": "Audiologist",
+"group": "Health and medical",
+"keywords": [
+"hearing",
+"hearing test",
+"hearing aids"
+]
+},
+{
+"name": "Chiropractor",
+"group": "Health and medical",
+"keywords": [
+"chiropractic",
+"chiropractor",
+"back pain",
+"spinal adjustment",
+"neck pain"
+]
+},
+{
+"name": "Physical therapist",
+"group": "Health and medical",
+"keywords": [
+"physiotherapy",
+"physical therapy",
+"physio",
+"rehabilitation",
+"sports injury"
+]
+},
+{
+"name": "Physiotherapy center",
+"group": "Health and medical",
+"keywords": [
+"physiotherapy",
+"physio clinic"
+]
+},
+{
+"name": "Osteopath",
+"group": "Health and medical",
+"keywords": [
+"osteopathy",
+"osteopath"
+]
+},
+{
+"name": "Massage therapist",
+"group": "Health and medical",
+"keywords": [
+"massage",
+"massage therapy",
+"deep tissue",
+"sports massage",
+"remedial massage"
+]
+},
+{
+"name": "Acupuncturist",
+"group": "Health and medical",
+"keywords": [
+"acupuncture",
+"acupuncturist"
+]
+},
+{
+"name": "Podiatrist",
+"group": "Health and medical",
+"keywords": [
+"podiatry",
+"foot",
+"feet",
+"chiropody",
+"orthotics"
+]
+},
+{
+"name": "Psychologist",
+"group": "Health and medical",
+"keywords": [
+"psychology",
+"psychologist",
+"anxiety",
+"depression"
+]
+},
+{
+"name": "Psychotherapist",
+"group": "Health and medical",
+"keywords": [
+"therapy",
+"counselling",
+"psychotherapy"
+]
+},
+{
+"name": "Counselor",
+"group": "Health and medical",
+"keywords": [
+"counseling",
+"counselling",
+"therapist"
+]
+},
+{
+"name": "Mental health service",
+"group": "Health and medical",
+"keywords": [
+"mental health"
+]
+},
+{
+"name": "Nutritionist",
+"group": "Health and medical",
+"keywords": [
+"nutrition",
+"dietitian",
+"diet"
+]
+},
+{
+"name": "Dietitian",
+"group": "Health and medical",
+"keywords": [
+"dietitian",
+"diet plan"
+]
+},
+{
+"name": "Pharmacy",
+"group": "Health and medical",
+"keywords": [
+"pharmacy",
+"chemist",
+"prescriptions",
+"pharmacist"
+]
+},
+{
+"name": "Medical spa",
+"group": "Health and medical",
+"keywords": [
+"med spa",
+"botox",
+"fillers",
+"laser",
+"aesthetics",
+"skin rejuvenation"
+]
+},
+{
+"name": "Skin care clinic",
+"group": "Health and medical",
+"keywords": [
+"skin care",
+"facials",
+"skin clinic",
+"aesthetics"
+]
+},
+{
+"name": "Laser hair removal service",
+"group": "Health and medical",
+"keywords": [
+"laser hair removal"
+]
+},
+{
+"name": "Weight loss service",
+"group": "Health and medical",
+"keywords": [
+"weight loss",
+"slimming"
+]
+},
+{
+"name": "Hospital",
+"group": "Health and medical",
+"keywords": [
+"hospital"
+]
+},
+{
+"name": "Home health care service",
+"group": "Health and medical",
+"keywords": [
+"home care",
+"carer",
+"home health"
+]
+},
+{
+"name": "Senior citizen center",
+"group": "Health and medical",
+"keywords": [
+"seniors",
+"aged care"
+]
+},
+{
+"name": "Nursing home",
+"group": "Health and medical",
+"keywords": [
+"nursing home",
+"care home"
+]
+},
+{
+"name": "Assisted living facility",
+"group": "Health and medical",
+"keywords": [
+"assisted living",
+"retirement"
+]
+},
+{
+"name": "Veterinarian",
+"group": "Health and medical",
+"keywords": [
+"vet",
+"veterinary",
+"pets",
+"animal hospital",
+"dog",
+"cat",
+"vaccination"
+]
+},
+{
+"name": "Emergency veterinarian service",
+"group": "Health and medical",
+"keywords": [
+"emergency vet",
+"after hours vet"
+]
+},
+{
+"name": "Animal hospital",
+"group": "Health and medical",
+"keywords": [
+"animal hospital"
+]
+},
+{
+"name": "Pet groomer",
+"group": "Health and medical",
+"keywords": [
+"pet grooming",
+"dog grooming",
+"groomer"
+]
+},
+{
+"name": "Dog trainer",
+"group": "Health and medical",
+"keywords": [
+"dog training",
+"puppy training",
+"obedience"
+]
+},
+{
+"name": "Pet boarding service",
+"group": "Health and medical",
+"keywords": [
+"pet boarding",
+"kennels",
+"cattery",
+"dog boarding"
+]
+},
+{
+"name": "Dog walker",
+"group": "Health and medical",
+"keywords": [
+"dog walking"
+]
+},
+{
+"name": "Pet store",
+"group": "Health and medical",
+"keywords": [
+"pet shop",
+"pet supplies"
+]
+},
+{
+"name": "Speech pathologist",
+"group": "Health and medical",
+"keywords": [
+"speech therapy",
+"speech pathology"
+]
+},
+{
+"name": "Occupational therapist",
+"group": "Health and medical",
+"keywords": [
+"occupational therapy"
+]
+},
+{
+"name": "Midwife",
+"group": "Health and medical",
+"keywords": [
+"midwife",
+"birth"
+]
+},
+{
+"name": "Fertility clinic",
+"group": "Health and medical",
+"keywords": [
+"ivf",
+"fertility"
+]
+},
+{
+"name": "Sleep clinic",
+"group": "Health and medical",
+"keywords": [
+"sleep apnea",
+"sleep"
+]
+},
+{
+"name": "Allergist",
+"group": "Health and medical",
+"keywords": [
+"allergy",
+"allergist"
+]
+},
+{
+"name": "Hair salon",
+"group": "Beauty and personal care",
+"keywords": [
+"hair",
+"haircut",
+"hairdresser",
+"colour",
+"highlights",
+"balayage",
+"blow dry",
+"salon"
+]
+},
+{
+"name": "Barber shop",
+"group": "Beauty and personal care",
+"keywords": [
+"barber",
+"mens haircut",
+"fade",
+"beard trim",
+"shave"
+]
+},
+{
+"name": "Beauty salon",
+"group": "Beauty and personal care",
+"keywords": [
+"beauty",
+"beautician",
+"facials",
+"waxing",
+"lashes",
+"brows"
+]
+},
+{
+"name": "Nail salon",
+"group": "Beauty and personal care",
+"keywords": [
+"nails",
+"manicure",
+"pedicure",
+"gel nails",
+"acrylic"
+]
+},
+{
+"name": "Day spa",
+"group": "Beauty and personal care",
+"keywords": [
+"spa",
+"spa day",
+"relaxation"
+]
+},
+{
+"name": "Spa",
+"group": "Beauty and personal care",
+"keywords": [
+"spa",
+"sauna",
+"wellness"
+]
+},
+{
+"name": "Eyelash salon",
+"group": "Beauty and personal care",
+"keywords": [
+"lash extensions",
+"lashes",
+"lash lift"
+]
+},
+{
+"name": "Eyebrow bar",
+"group": "Beauty and personal care",
+"keywords": [
+"brows",
+"threading",
+"microblading"
+]
+},
+{
+"name": "Waxing hair removal service",
+"group": "Beauty and personal care",
+"keywords": [
+"waxing",
+"brazilian"
+]
+},
+{
+"name": "Tanning salon",
+"group": "Beauty and personal care",
+"keywords": [
+"tanning",
+"spray tan",
+"sunbed"
+]
+},
+{
+"name": "Tattoo shop",
+"group": "Beauty and personal care",
+"keywords": [
+"tattoo",
+"tattoos",
+"tattoo artist"
+]
+},
+{
+"name": "Piercing shop",
+"group": "Beauty and personal care",
+"keywords": [
+"piercing",
+"body piercing"
+]
+},
+{
+"name": "Makeup artist",
+"group": "Beauty and personal care",
+"keywords": [
+"makeup",
+"bridal makeup"
+]
+},
+{
+"name": "Hair extension technician",
+"group": "Beauty and personal care",
+"keywords": [
+"hair extensions"
+]
+},
+{
+"name": "Hair removal service",
+"group": "Beauty and personal care",
+"keywords": [
+"hair removal"
+]
+},
+{
+"name": "Cosmetics store",
+"group": "Beauty and personal care",
+"keywords": [
+"cosmetics",
+"makeup"
+]
+},
+{
+"name": "Restaurant",
+"group": "Food and drink",
+"keywords": [
+"restaurant",
+"dining",
+"dinner",
+"lunch",
+"food"
+]
+},
+{
+"name": "Italian restaurant",
+"group": "Food and drink",
+"keywords": [
+"italian",
+"pasta",
+"pizza",
+"risotto"
+]
+},
+{
+"name": "Pizza restaurant",
+"group": "Food and drink",
+"keywords": [
+"pizza",
+"pizzeria"
+]
+},
+{
+"name": "Pizza delivery",
+"group": "Food and drink",
+"keywords": [
+"pizza delivery"
+]
+},
+{
+"name": "Mexican restaurant",
+"group": "Food and drink",
+"keywords": [
+"mexican",
+"tacos",
+"burritos",
+"nachos"
+]
+},
+{
+"name": "Chinese restaurant",
+"group": "Food and drink",
+"keywords": [
+"chinese",
+"dim sum",
+"noodles"
+]
+},
+{
+"name": "Japanese restaurant",
+"group": "Food and drink",
+"keywords": [
+"japanese",
+"ramen",
+"izakaya"
+]
+},
+{
+"name": "Sushi restaurant",
+"group": "Food and drink",
+"keywords": [
+"sushi",
+"sashimi"
+]
+},
+{
+"name": "Thai restaurant",
+"group": "Food and drink",
+"keywords": [
+"thai",
+"pad thai",
+"curry"
+]
+},
+{
+"name": "Indian restaurant",
+"group": "Food and drink",
+"keywords": [
+"indian",
+"curry",
+"tandoori",
+"biryani"
+]
+},
+{
+"name": "Vietnamese restaurant",
+"group": "Food and drink",
+"keywords": [
+"vietnamese",
+"pho",
+"banh mi"
+]
+},
+{
+"name": "Korean restaurant",
+"group": "Food and drink",
+"keywords": [
+"korean",
+"korean bbq"
+]
+},
+{
+"name": "Greek restaurant",
+"group": "Food and drink",
+"keywords": [
+"greek",
+"gyros",
+"souvlaki"
+]
+},
+{
+"name": "Mediterranean restaurant",
+"group": "Food and drink",
+"keywords": [
+"mediterranean",
+"mezze"
+]
+},
+{
+"name": "Middle Eastern restaurant",
+"group": "Food and drink",
+"keywords": [
+"middle eastern",
+"shawarma",
+"falafel"
+]
+},
+{
+"name": "French restaurant",
+"group": "Food and drink",
+"keywords": [
+"french",
+"bistro"
+]
+},
+{
+"name": "Spanish restaurant",
+"group": "Food and drink",
+"keywords": [
+"spanish",
+"tapas",
+"paella"
+]
+},
+{
+"name": "American restaurant",
+"group": "Food and drink",
+"keywords": [
+"american",
+"burgers",
+"diner"
+]
+},
+{
+"name": "Steak house",
+"group": "Food and drink",
+"keywords": [
+"steak",
+"steakhouse",
+"grill"
+]
+},
+{
+"name": "Seafood restaurant",
+"group": "Food and drink",
+"keywords": [
+"seafood",
+"fish",
+"oysters",
+"lobster"
+]
+},
+{
+"name": "Hamburger restaurant",
+"group": "Food and drink",
+"keywords": [
+"burgers",
+"hamburger"
+]
+},
+{
+"name": "Fast food restaurant",
+"group": "Food and drink",
+"keywords": [
+"fast food",
+"takeaway"
+]
+},
+{
+"name": "Barbecue restaurant",
+"group": "Food and drink",
+"keywords": [
+"bbq",
+"barbecue",
+"smokehouse",
+"brisket"
+]
+},
+{
+"name": "Vegan restaurant",
+"group": "Food and drink",
+"keywords": [
+"vegan",
+"plant based"
+]
+},
+{
+"name": "Vegetarian restaurant",
+"group": "Food and drink",
+"keywords": [
+"vegetarian"
+]
+},
+{
+"name": "Breakfast restaurant",
+"group": "Food and drink",
+"keywords": [
+"breakfast"
+]
+},
+{
+"name": "Brunch restaurant",
+"group": "Food and drink",
+"keywords": [
+"brunch"
+]
+},
+{
+"name": "Family restaurant",
+"group": "Food and drink",
+"keywords": [
+"family dining"
+]
+},
+{
+"name": "Fine dining restaurant",
+"group": "Food and drink",
+"keywords": [
+"fine dining",
+"tasting menu"
+]
+},
+{
+"name": "Buffet restaurant",
+"group": "Food and drink",
+"keywords": [
+"buffet",
+"all you can eat"
+]
+},
+{
+"name": "Fish and chips takeaway",
+"group": "Food and drink",
+"keywords": [
+"fish and chips",
+"chippy"
+]
+},
+{
+"name": "Chicken restaurant",
+"group": "Food and drink",
+"keywords": [
+"chicken",
+"fried chicken",
+"wings"
+]
+},
+{
+"name": "Sandwich shop",
+"group": "Food and drink",
+"keywords": [
+"sandwiches",
+"subs",
+"deli"
+]
+},
+{
+"name": "Deli",
+"group": "Food and drink",
+"keywords": [
+"deli",
+"delicatessen"
+]
+},
+{
+"name": "Cafe",
+"group": "Food and drink",
+"keywords": [
+"cafe",
+"coffee",
+"breakfast",
+"brunch"
+]
+},
+{
+"name": "Coffee shop",
+"group": "Food and drink",
+"keywords": [
+"coffee",
+"espresso",
+"latte",
+"flat white"
+]
+},
+{
+"name": "Bakery",
+"group": "Food and drink",
+"keywords": [
+"bakery",
+"bread",
+"pastries",
+"cakes",
+"croissants",
+"sourdough"
+]
+},
+{
+"name": "Cake shop",
+"group": "Food and drink",
+"keywords": [
+"cakes",
+"custom cakes",
+"birthday cakes",
+"wedding cakes"
+]
+},
+{
+"name": "Dessert shop",
+"group": "Food and drink",
+"keywords": [
+"desserts",
+"sweets"
+]
+},
+{
+"name": "Ice cream shop",
+"group": "Food and drink",
+"keywords": [
+"ice cream",
+"gelato",
+"frozen yogurt"
+]
+},
+{
+"name": "Donut shop",
+"group": "Food and drink",
+"keywords": [
+"donuts",
+"doughnuts"
+]
+},
+{
+"name": "Juice shop",
+"group": "Food and drink",
+"keywords": [
+"juice",
+"smoothies",
+"acai"
+]
+},
+{
+"name": "Bubble tea store",
+"group": "Food and drink",
+"keywords": [
+"bubble tea",
+"boba"
+]
+},
+{
+"name": "Tea house",
+"group": "Food and drink",
+"keywords": [
+"tea",
+"afternoon tea"
+]
+},
+{
+"name": "Bar",
+"group": "Food and drink",
+"keywords": [
+"bar",
+"drinks",
+"cocktails",
+"beer",
+"happy hour"
+]
+},
+{
+"name": "Pub",
+"group": "Food and drink",
+"keywords": [
+"pub",
+"ale",
+"pints",
+"beer garden"
+]
+},
+{
+"name": "Cocktail bar",
+"group": "Food and drink",
+"keywords": [
+"cocktails",
+"mixology"
+]
+},
+{
+"name": "Wine bar",
+"group": "Food and drink",
+"keywords": [
+"wine",
+"wine bar"
+]
+},
+{
+"name": "Brewery",
+"group": "Food and drink",
+"keywords": [
+"brewery",
+"craft beer",
+"taproom"
+]
+},
+{
+"name": "Winery",
+"group": "Food and drink",
+"keywords": [
+"winery",
+"wine tasting",
+"vineyard"
+]
+},
+{
+"name": "Night club",
+"group": "Food and drink",
+"keywords": [
+"nightclub",
+"club",
+"dancing"
+]
+},
+{
+"name": "Caterer",
+"group": "Food and drink",
+"keywords": [
+"catering",
+"caterer",
+"event catering",
+"corporate catering"
+]
+},
+{
+"name": "Food truck",
+"group": "Food and drink",
+"keywords": [
+"food truck"
+]
+},
+{
+"name": "Butcher shop",
+"group": "Food and drink",
+"keywords": [
+"butcher",
+"meat"
+]
+},
+{
+"name": "Grocery store",
+"group": "Food and drink",
+"keywords": [
+"grocery",
+"groceries",
+"supermarket"
+]
+},
+{
+"name": "Supermarket",
+"group": "Food and drink",
+"keywords": [
+"supermarket"
+]
+},
+{
+"name": "Health food store",
+"group": "Food and drink",
+"keywords": [
+"health food",
+"organic"
+]
+},
+{
+"name": "Liquor store",
+"group": "Food and drink",
+"keywords": [
+"liquor",
+"off licence",
+"bottle shop",
+"alcohol"
+]
+},
+{
+"name": "Farmers' market",
+"group": "Food and drink",
+"keywords": [
+"farmers market",
+"produce"
+]
+},
+{
+"name": "Meal delivery",
+"group": "Food and drink",
+"keywords": [
+"meal delivery",
+"meal prep"
+]
+},
+{
+"name": "Auto repair shop",
+"group": "Automotive",
+"keywords": [
+"car repair",
+"auto repair",
+"mechanic",
+"garage",
+"service",
+"brakes",
+"engine",
+"diagnostics",
+"mot"
+]
+},
+{
+"name": "Mechanic",
+"group": "Automotive",
+"keywords": [
+"mechanic",
+"car mechanic"
+]
+},
+{
+"name": "Car service station",
+"group": "Automotive",
+"keywords": [
+"car service",
+"servicing"
+]
+},
+{
+"name": "Auto body shop",
+"group": "Automotive",
+"keywords": [
+"panel beating",
+"body shop",
+"collision repair",
+"dent repair",
+"smash repair"
+]
+},
+{
+"name": "Auto glass shop",
+"group": "Automotive",
+"keywords": [
+"windscreen",
+"windshield",
+"auto glass",
+"chip repair"
+]
+},
+{
+"name": "Tire shop",
+"group": "Automotive",
+"keywords": [
+"tyres",
+"tires",
+"wheel alignment",
+"tyre fitting",
+"puncture"
+]
+},
+{
+"name": "Oil change service",
+"group": "Automotive",
+"keywords": [
+"oil change",
+"lube"
+]
+},
+{
+"name": "Brake shop",
+"group": "Automotive",
+"keywords": [
+"brakes",
+"brake repair"
+]
+},
+{
+"name": "Transmission shop",
+"group": "Automotive",
+"keywords": [
+"transmission",
+"gearbox"
+]
+},
+{
+"name": "Car wash",
+"group": "Automotive",
+"keywords": [
+"car wash",
+"car cleaning"
+]
+},
+{
+"name": "Car detailing service",
+"group": "Automotive",
+"keywords": [
+"car detailing",
+"valeting",
+"ceramic coating",
+"paint protection"
+]
+},
+{
+"name": "Car dealer",
+"group": "Automotive",
+"keywords": [
+"car dealer",
+"car sales",
+"new cars"
+]
+},
+{
+"name": "Used car dealer",
+"group": "Automotive",
+"keywords": [
+"used cars",
+"second hand cars",
+"pre owned"
+]
+},
+{
+"name": "Car rental agency",
+"group": "Automotive",
+"keywords": [
+"car hire",
+"car rental",
+"rent a car"
+]
+},
+{
+"name": "Towing service",
+"group": "Automotive",
+"keywords": [
+"towing",
+"tow truck",
+"breakdown recovery",
+"roadside assistance"
+]
+},
+{
+"name": "Motorcycle repair shop",
+"group": "Automotive",
+"keywords": [
+"motorcycle repair",
+"motorbike"
+]
+},
+{
+"name": "Motorcycle dealer",
+"group": "Automotive",
+"keywords": [
+"motorcycles",
+"motorbikes"
+]
+},
+{
+"name": "Auto parts store",
+"group": "Automotive",
+"keywords": [
+"car parts",
+"auto parts"
+]
+},
+{
+"name": "Driving school",
+"group": "Automotive",
+"keywords": [
+"driving lessons",
+"driving instructor",
+"learner driver"
+]
+},
+{
+"name": "Truck repair shop",
+"group": "Automotive",
+"keywords": [
+"truck repair",
+"hgv"
+]
+},
+{
+"name": "Car battery store",
+"group": "Automotive",
+"keywords": [
+"car battery"
+]
+},
+{
+"name": "Smog inspection station",
+"group": "Automotive",
+"keywords": [
+"smog check",
+"emissions test"
+]
+},
+{
+"name": "Electric vehicle charging station",
+"group": "Automotive",
+"keywords": [
+"ev charging",
+"charging station"
+]
+},
+{
+"name": "Lawyer",
+"group": "Professional services",
+"keywords": [
+"lawyer",
+"solicitor",
+"attorney",
+"legal advice",
+"law firm"
+]
+},
+{
+"name": "Law firm",
+"group": "Professional services",
+"keywords": [
+"law firm",
+"legal"
+]
+},
+{
+"name": "Personal injury attorney",
+"group": "Professional services",
+"keywords": [
+"personal injury",
+"accident claim",
+"compensation",
+"injury lawyer"
+]
+},
+{
+"name": "Family law attorney",
+"group": "Professional services",
+"keywords": [
+"family law",
+"divorce",
+"custody",
+"child support"
+]
+},
+{
+"name": "Divorce lawyer",
+"group": "Professional services",
+"keywords": [
+"divorce"
+]
+},
+{
+"name": "Criminal justice attorney",
+"group": "Professional services",
+"keywords": [
+"criminal lawyer",
+"criminal defence",
+"dui",
+"dwi"
+]
+},
+{
+"name": "Immigration attorney",
+"group": "Professional services",
+"keywords": [
+"immigration",
+"visa",
+"green card",
+"citizenship"
+]
+},
+{
+"name": "Estate planning attorney",
+"group": "Professional services",
+"keywords": [
+"wills",
+"estate planning",
+"probate",
+"trusts"
+]
+},
+{
+"name": "Employment attorney",
+"group": "Professional services",
+"keywords": [
+"employment law",
+"unfair dismissal",
+"workplace"
+]
+},
+{
+"name": "Real estate attorney",
+"group": "Professional services",
+"keywords": [
+"conveyancing",
+"property law",
+"real estate lawyer"
+]
+},
+{
+"name": "Business attorney",
+"group": "Professional services",
+"keywords": [
+"business law",
+"contracts",
+"company law"
+]
+},
+{
+"name": "Bankruptcy attorney",
+"group": "Professional services",
+"keywords": [
+"bankruptcy",
+"insolvency",
+"debt"
+]
+},
+{
+"name": "Notary public",
+"group": "Professional services",
+"keywords": [
+"notary",
+"notarisation"
+]
+},
+{
+"name": "Accountant",
+"group": "Professional services",
+"keywords": [
+"accountant",
+"accounting",
+"tax return",
+"bookkeeping",
+"tax",
+"payroll"
+]
+},
+{
+"name": "Certified public accountant",
+"group": "Professional services",
+"keywords": [
+"cpa",
+"certified accountant"
+]
+},
+{
+"name": "Tax preparation service",
+"group": "Professional services",
+"keywords": [
+"tax preparation",
+"tax return",
+"tax filing"
+]
+},
+{
+"name": "Bookkeeping service",
+"group": "Professional services",
+"keywords": [
+"bookkeeping",
+"bookkeeper"
+]
+},
+{
+"name": "Payroll service",
+"group": "Professional services",
+"keywords": [
+"payroll"
+]
+},
+{
+"name": "Financial planner",
+"group": "Professional services",
+"keywords": [
+"financial planning",
+"financial advisor",
+"retirement planning",
+"wealth"
+]
+},
+{
+"name": "Financial consultant",
+"group": "Professional services",
+"keywords": [
+"financial consulting"
+]
+},
+{
+"name": "Investment service",
+"group": "Professional services",
+"keywords": [
+"investments",
+"investing"
+]
+},
+{
+"name": "Insurance agency",
+"group": "Professional services",
+"keywords": [
+"insurance",
+"insurance broker",
+"car insurance",
+"home insurance",
+"life insurance"
+]
+},
+{
+"name": "Mortgage broker",
+"group": "Professional services",
+"keywords": [
+"mortgage",
+"home loan",
+"mortgage broker",
+"refinance"
+]
+},
+{
+"name": "Mortgage lender",
+"group": "Professional services",
+"keywords": [
+"mortgage lender"
+]
+},
+{
+"name": "Loan agency",
+"group": "Professional services",
+"keywords": [
+"loans",
+"personal loans"
+]
+},
+{
+"name": "Bank",
+"group": "Professional services",
+"keywords": [
+"bank",
+"banking"
+]
+},
+{
+"name": "Credit union",
+"group": "Professional services",
+"keywords": [
+"credit union"
+]
+},
+{
+"name": "Real estate agency",
+"group": "Professional services",
+"keywords": [
+"real estate",
+"estate agent",
+"realtor",
+"property",
+"homes for sale",
+"property management"
+]
+},
+{
+"name": "Real estate agent",
+"group": "Professional services",
+"keywords": [
+"realtor",
+"estate agent"
+]
+},
+{
+"name": "Property management company",
+"group": "Professional services",
+"keywords": [
+"property management",
+"letting agent",
+"rentals",
+"landlord"
+]
+},
+{
+"name": "Real estate appraiser",
+"group": "Professional services",
+"keywords": [
+"valuation",
+"appraisal"
+]
+},
+{
+"name": "Marketing agency",
+"group": "Professional services",
+"keywords": [
+"marketing",
+"digital marketing",
+"seo",
+"ppc",
+"social media marketing"
+]
+},
+{
+"name": "Internet marketing service",
+"group": "Professional services",
+"keywords": [
+"seo",
+"search engine optimisation",
+"online marketing",
+"google ads"
+]
+},
+{
+"name": "Advertising agency",
+"group": "Professional services",
+"keywords": [
+"advertising",
+"ads",
+"media buying"
+]
+},
+{
+"name": "Website designer",
+"group": "Professional services",
+"keywords": [
+"web design",
+"website design",
+"web development",
+"wordpress",
+"website"
+]
+},
+{
+"name": "Software company",
+"group": "Professional services",
+"keywords": [
+"software",
+"saas",
+"app development"
+]
+},
+{
+"name": "Computer repair service",
+"group": "Professional services",
+"keywords": [
+"computer repair",
+"laptop repair",
+"pc repair",
+"it support",
+"virus removal"
+]
+},
+{
+"name": "IT services",
+"group": "Professional services",
+"keywords": [
+"it support",
+"managed it",
+"network"
+]
+},
+{
+"name": "Computer consultant",
+"group": "Professional services",
+"keywords": [
+"it consulting"
+]
+},
+{
+"name": "Cell phone repair shop",
+"group": "Professional services",
+"keywords": [
+"phone repair",
+"screen repair",
+"iphone repair",
+"mobile repair"
+]
+},
+{
+"name": "Graphic designer",
+"group": "Professional services",
+"keywords": [
+"graphic design",
+"logo design",
+"branding"
+]
+},
+{
+"name": "Photographer",
+"group": "Professional services",
+"keywords": [
+"photography",
+"photographer",
+"photos",
+"portraits",
+"headshots"
+]
+},
+{
+"name": "Wedding photographer",
+"group": "Professional services",
+"keywords": [
+"wedding photography"
+]
+},
+{
+"name": "Videographer",
+"group": "Professional services",
+"keywords": [
+"video production",
+"videography",
+"filming"
+]
+},
+{
+"name": "Printing service",
+"group": "Professional services",
+"keywords": [
+"printing",
+"print shop",
+"business cards",
+"flyers",
+"banners"
+]
+},
+{
+"name": "Sign shop",
+"group": "Professional services",
+"keywords": [
+"signs",
+"signage",
+"shop signs"
+]
+},
+{
+"name": "Business management consultant",
+"group": "Professional services",
+"keywords": [
+"consulting",
+"business consultant",
+"strategy"
+]
+},
+{
+"name": "Human resource consulting",
+"group": "Professional services",
+"keywords": [
+"hr consulting",
+"human resources"
+]
+},
+{
+"name": "Employment agency",
+"group": "Professional services",
+"keywords": [
+"recruitment",
+"staffing",
+"jobs",
+"recruiter"
+]
+},
+{
+"name": "Translation service",
+"group": "Professional services",
+"keywords": [
+"translation",
+"interpreter"
+]
+},
+{
+"name": "Architect",
+"group": "Professional services",
+"keywords": [
+"architect",
+"architecture",
+"building design",
+"plans",
+"extensions"
+]
+},
+{
+"name": "Engineer",
+"group": "Professional services",
+"keywords": [
+"engineering",
+"structural engineer"
+]
+},
+{
+"name": "Surveyor",
+"group": "Professional services",
+"keywords": [
+"surveying",
+"land survey",
+"building survey"
+]
+},
+{
+"name": "Courier service",
+"group": "Professional services",
+"keywords": [
+"courier",
+"delivery",
+"same day delivery"
+]
+},
+{
+"name": "Shipping service",
+"group": "Professional services",
+"keywords": [
+"shipping",
+"freight"
+]
+},
+{
+"name": "Storage facility",
+"group": "Professional services",
+"keywords": [
+"storage"
+]
+},
+{
+"name": "Tutoring service",
+"group": "Education and childcare",
+"keywords": [
+"tutoring",
+"tutor",
+"maths tutor",
+"english tutor",
+"exam prep"
+]
+},
+{
+"name": "Learning center",
+"group": "Education and childcare",
+"keywords": [
+"learning centre",
+"education"
+]
+},
+{
+"name": "Language school",
+"group": "Education and childcare",
+"keywords": [
+"language school",
+"english lessons",
+"esl",
+"spanish lessons"
+]
+},
+{
+"name": "Music school",
+"group": "Education and childcare",
+"keywords": [
+"music lessons",
+"piano lessons",
+"guitar lessons"
+]
+},
+{
+"name": "Music instructor",
+"group": "Education and childcare",
+"keywords": [
+"music teacher"
+]
+},
+{
+"name": "Dance school",
+"group": "Education and childcare",
+"keywords": [
+"dance classes",
+"ballet",
+"hip hop",
+"dance lessons"
+]
+},
+{
+"name": "Art school",
+"group": "Education and childcare",
+"keywords": [
+"art classes",
+"painting classes"
+]
+},
+{
+"name": "Driving instructor",
+"group": "Education and childcare",
+"keywords": [
+"driving lessons"
+]
+},
+{
+"name": "Preschool",
+"group": "Education and childcare",
+"keywords": [
+"preschool",
+"kindergarten",
+"nursery"
+]
+},
+{
+"name": "Child care agency",
+"group": "Education and childcare",
+"keywords": [
+"childcare",
+"daycare",
+"nanny"
+]
+},
+{
+"name": "Day care center",
+"group": "Education and childcare",
+"keywords": [
+"daycare",
+"day care",
+"childcare centre"
+]
+},
+{
+"name": "After school program",
+"group": "Education and childcare",
+"keywords": [
+"after school care"
+]
+},
+{
+"name": "Montessori school",
+"group": "Education and childcare",
+"keywords": [
+"montessori"
+]
+},
+{
+"name": "Private school",
+"group": "Education and childcare",
+"keywords": [
+"private school"
+]
+},
+{
+"name": "Swimming school",
+"group": "Education and childcare",
+"keywords": [
+"swimming lessons",
+"learn to swim"
+]
+},
+{
+"name": "Martial arts school",
+"group": "Education and childcare",
+"keywords": [
+"martial arts",
+"karate",
+"taekwondo",
+"bjj",
+"jiu jitsu",
+"judo",
+"kickboxing"
+]
+},
+{
+"name": "Boxing gym",
+"group": "Education and childcare",
+"keywords": [
+"boxing"
+]
+},
+{
+"name": "Gym",
+"group": "Fitness and recreation",
+"keywords": [
+"gym",
+"fitness",
+"workout",
+"weights",
+"training"
+]
+},
+{
+"name": "Fitness center",
+"group": "Fitness and recreation",
+"keywords": [
+"fitness centre",
+"health club"
+]
+},
+{
+"name": "Personal trainer",
+"group": "Fitness and recreation",
+"keywords": [
+"personal training",
+"personal trainer",
+"pt"
+]
+},
+{
+"name": "Yoga studio",
+"group": "Fitness and recreation",
+"keywords": [
+"yoga",
+"hot yoga",
+"vinyasa"
+]
+},
+{
+"name": "Pilates studio",
+"group": "Fitness and recreation",
+"keywords": [
+"pilates",
+"reformer pilates"
+]
+},
+{
+"name": "CrossFit gym",
+"group": "Fitness and recreation",
+"keywords": [
+"crossfit"
+]
+},
+{
+"name": "Boot camp",
+"group": "Fitness and recreation",
+"keywords": [
+"bootcamp"
+]
+},
+{
+"name": "Rock climbing gym",
+"group": "Fitness and recreation",
+"keywords": [
+"climbing",
+"bouldering"
+]
+},
+{
+"name": "Swimming pool",
+"group": "Fitness and recreation",
+"keywords": [
+"swimming pool",
+"lap pool"
+]
+},
+{
+"name": "Golf course",
+"group": "Fitness and recreation",
+"keywords": [
+"golf",
+"golf course"
+]
+},
+{
+"name": "Golf driving range",
+"group": "Fitness and recreation",
+"keywords": [
+"driving range"
+]
+},
+{
+"name": "Bowling alley",
+"group": "Fitness and recreation",
+"keywords": [
+"bowling",
+"tenpin"
+]
+},
+{
+"name": "Amusement center",
+"group": "Fitness and recreation",
+"keywords": [
+"arcade",
+"amusement"
+]
+},
+{
+"name": "Escape room center",
+"group": "Fitness and recreation",
+"keywords": [
+"escape room"
+]
+},
+{
+"name": "Trampoline park",
+"group": "Fitness and recreation",
+"keywords": [
+"trampoline"
+]
+},
+{
+"name": "Sports club",
+"group": "Fitness and recreation",
+"keywords": [
+"sports club"
+]
+},
+{
+"name": "Tennis court",
+"group": "Fitness and recreation",
+"keywords": [
+"tennis"
+]
+},
+{
+"name": "Sporting goods store",
+"group": "Fitness and recreation",
+"keywords": [
+"sporting goods",
+"sports equipment"
+]
+},
+{
+"name": "Bicycle shop",
+"group": "Fitness and recreation",
+"keywords": [
+"bikes",
+"bicycle",
+"cycling",
+"bike repair"
+]
+},
+{
+"name": "Bicycle repair shop",
+"group": "Fitness and recreation",
+"keywords": [
+"bike repair",
+"bicycle service"
+]
+},
+{
+"name": "Hotel",
+"group": "Events and hospitality",
+"keywords": [
+"hotel",
+"accommodation",
+"rooms",
+"stay"
+]
+},
+{
+"name": "Motel",
+"group": "Events and hospitality",
+"keywords": [
+"motel"
+]
+},
+{
+"name": "Bed & breakfast",
+"group": "Events and hospitality",
+"keywords": [
+"b&b",
+"bed and breakfast",
+"guesthouse"
+]
+},
+{
+"name": "Guest house",
+"group": "Events and hospitality",
+"keywords": [
+"guest house"
+]
+},
+{
+"name": "Vacation home rental agency",
+"group": "Events and hospitality",
+"keywords": [
+"holiday rentals",
+"vacation rentals"
+]
+},
+{
+"name": "Resort hotel",
+"group": "Events and hospitality",
+"keywords": [
+"resort"
+]
+},
+{
+"name": "Hostel",
+"group": "Events and hospitality",
+"keywords": [
+"hostel",
+"backpackers"
+]
+},
+{
+"name": "Event venue",
+"group": "Events and hospitality",
+"keywords": [
+"venue",
+"event space",
+"function room",
+"conference"
+]
+},
+{
+"name": "Wedding venue",
+"group": "Events and hospitality",
+"keywords": [
+"wedding venue",
+"reception venue"
+]
+},
+{
+"name": "Banquet hall",
+"group": "Events and hospitality",
+"keywords": [
+"banquet",
+"function hall"
+]
+},
+{
+"name": "Wedding planner",
+"group": "Events and hospitality",
+"keywords": [
+"wedding planning",
+"wedding planner"
+]
+},
+{
+"name": "Event planner",
+"group": "Events and hospitality",
+"keywords": [
+"event planning",
+"party planner"
+]
+},
+{
+"name": "Florist",
+"group": "Events and hospitality",
+"keywords": [
+"florist",
+"flowers",
+"bouquets",
+"wedding flowers",
+"flower delivery"
+]
+},
+{
+"name": "Party equipment rental service",
+"group": "Events and hospitality",
+"keywords": [
+"party hire",
+"marquee",
+"tent rental"
+]
+},
+{
+"name": "DJ service",
+"group": "Events and hospitality",
+"keywords": [
+"dj",
+"disc jockey"
+]
+},
+{
+"name": "Wedding store",
+"group": "Events and hospitality",
+"keywords": [
+"bridal",
+"wedding dresses"
+]
+},
+{
+"name": "Bridal shop",
+"group": "Events and hospitality",
+"keywords": [
+"bridal",
+"wedding gown"
+]
+},
+{
+"name": "Travel agency",
+"group": "Events and hospitality",
+"keywords": [
+"travel agent",
+"holidays",
+"flights",
+"tours"
+]
+},
+{
+"name": "Tour operator",
+"group": "Events and hospitality",
+"keywords": [
+"tours",
+"guided tours",
+"excursions"
+]
+},
+{
+"name": "Limousine service",
+"group": "Events and hospitality",
+"keywords": [
+"limo",
+"limousine",
+"chauffeur"
+]
+},
+{
+"name": "Taxi service",
+"group": "Events and hospitality",
+"keywords": [
+"taxi",
+"cab",
+"airport transfer"
+]
+},
+{
+"name": "Airport shuttle service",
+"group": "Events and hospitality",
+"keywords": [
+"airport shuttle",
+"airport transfer"
+]
+},
+{
+"name": "Clothing store",
+"group": "Retail",
+"keywords": [
+"clothing",
+"fashion",
+"clothes",
+"apparel"
+]
+},
+{
+"name": "Women's clothing store",
+"group": "Retail",
+"keywords": [
+"womens clothing",
+"dresses"
+]
+},
+{
+"name": "Men's clothing store",
+"group": "Retail",
+"keywords": [
+"mens clothing",
+"suits"
+]
+},
+{
+"name": "Children's clothing store",
+"group": "Retail",
+"keywords": [
+"kids clothing"
+]
+},
+{
+"name": "Shoe store",
+"group": "Retail",
+"keywords": [
+"shoes",
+"footwear",
+"trainers",
+"sneakers"
+]
+},
+{
+"name": "Jewelry store",
+"group": "Retail",
+"keywords": [
+"jewellery",
+"jewelry",
+"rings",
+"engagement rings",
+"necklaces"
+]
+},
+{
+"name": "Jeweler",
+"group": "Retail",
+"keywords": [
+"jeweller",
+"jewelry repair"
+]
+},
+{
+"name": "Watch store",
+"group": "Retail",
+"keywords": [
+"watches"
+]
+},
+{
+"name": "Watch repair service",
+"group": "Retail",
+"keywords": [
+"watch repair",
+"battery replacement"
+]
+},
+{
+"name": "Gift shop",
+"group": "Retail",
+"keywords": [
+"gifts",
+"souvenirs"
+]
+},
+{
+"name": "Book store",
+"group": "Retail",
+"keywords": [
+"books",
+"bookshop"
+]
+},
+{
+"name": "Toy store",
+"group": "Retail",
+"keywords": [
+"toys"
+]
+},
+{
+"name": "Electronics store",
+"group": "Retail",
+"keywords": [
+"electronics",
+"tvs",
+"computers"
+]
+},
+{
+"name": "Cell phone store",
+"group": "Retail",
+"keywords": [
+"mobile phones",
+"smartphones"
+]
+},
+{
+"name": "Computer store",
+"group": "Retail",
+"keywords": [
+"computers",
+"laptops"
+]
+},
+{
+"name": "Hardware store",
+"group": "Retail",
+"keywords": [
+"hardware",
+"tools",
+"diy"
+]
+},
+{
+"name": "Home improvement store",
+"group": "Retail",
+"keywords": [
+"home improvement",
+"building supplies"
+]
+},
+{
+"name": "Garden center",
+"group": "Retail",
+"keywords": [
+"garden centre",
+"plants",
+"nursery"
+]
+},
+{
+"name": "Plant nursery",
+"group": "Retail",
+"keywords": [
+"plants",
+"nursery"
+]
+},
+{
+"name": "Furniture maker",
+"group": "Retail",
+"keywords": [
+"furniture maker",
+"bespoke furniture"
+]
+},
+{
+"name": "Antique store",
+"group": "Retail",
+"keywords": [
+"antiques"
+]
+},
+{
+"name": "Thrift store",
+"group": "Retail",
+"keywords": [
+"thrift",
+"charity shop",
+"second hand"
+]
+},
+{
+"name": "Pawn shop",
+"group": "Retail",
+"keywords": [
+"pawn",
+"pawnbroker"
+]
+},
+{
+"name": "Convenience store",
+"group": "Retail",
+"keywords": [
+"convenience",
+"corner shop"
+]
+},
+{
+"name": "Department store",
+"group": "Retail",
+"keywords": [
+"department store"
+]
+},
+{
+"name": "Discount store",
+"group": "Retail",
+"keywords": [
+"discount",
+"bargains"
+]
+},
+{
+"name": "Optical store",
+"group": "Retail",
+"keywords": [
+"glasses",
+"eyewear"
+]
+},
+{
+"name": "Vape shop",
+"group": "Retail",
+"keywords": [
+"vape",
+"e-cigarettes"
+]
+},
+{
+"name": "Tobacco shop",
+"group": "Retail",
+"keywords": [
+"tobacco",
+"cigars"
+]
+},
+{
+"name": "Cannabis store",
+"group": "Retail",
+"keywords": [
+"cannabis",
+"dispensary",
+"cbd"
+]
+},
+{
+"name": "Art gallery",
+"group": "Retail",
+"keywords": [
+"art gallery",
+"art"
+]
+},
+{
+"name": "Framing shop",
+"group": "Retail",
+"keywords": [
+"picture framing",
+"frames"
+]
+},
+{
+"name": "Craft store",
+"group": "Retail",
+"keywords": [
+"crafts",
+"art supplies"
+]
+},
+{
+"name": "Fabric store",
+"group": "Retail",
+"keywords": [
+"fabric",
+"sewing"
+]
+},
+{
+"name": "Music store",
+"group": "Retail",
+"keywords": [
+"musical instruments",
+"guitars"
+]
+},
+{
+"name": "Bridal store",
+"group": "Retail",
+"keywords": [
+"bridal"
+]
+},
+{
+"name": "Tailor",
+"group": "Retail",
+"keywords": [
+"tailor",
+"alterations",
+"tailoring"
+]
+},
+{
+"name": "Dry cleaner",
+"group": "Retail",
+"keywords": [
+"dry cleaning",
+"laundry",
+"alterations"
+]
+},
+{
+"name": "Laundromat",
+"group": "Retail",
+"keywords": [
+"laundromat",
+"laundrette",
+"coin laundry"
+]
+},
+{
+"name": "Laundry service",
+"group": "Retail",
+"keywords": [
+"laundry",
+"wash and fold"
+]
+},
+{
+"name": "Shoe repair shop",
+"group": "Retail",
+"keywords": [
+"shoe repair",
+"cobbler",
+"key cutting"
+]
+},
+{
+"name": "Key duplication service",
+"group": "Retail",
+"keywords": [
+"key cutting"
+]
+},
+{
+"name": "Phone repair service",
+"group": "Retail",
+"keywords": [
+"phone repair"
+]
+},
+{
+"name": "Funeral home",
+"group": "Funeral and religious",
+"keywords": [
+"funeral",
+"funeral director",
+"cremation",
+"memorial"
+]
+},
+{
+"name": "Cremation service",
+"group": "Funeral and religious",
+"keywords": [
+"cremation"
+]
+},
+{
+"name": "Cemetery",
+"group": "Funeral and religious",
+"keywords": [
+"cemetery"
+]
+},
+{
+"name": "Church",
+"group": "Funeral and religious",
+"keywords": [
+"church",
+"worship"
+]
+},
+{
+"name": "Mosque",
+"group": "Funeral and religious",
+"keywords": [
+"mosque"
+]
+},
+{
+"name": "Synagogue",
+"group": "Funeral and religious",
+"keywords": [
+"synagogue"
+]
+},
+{
+"name": "Hindu temple",
+"group": "Funeral and religious",
+"keywords": [
+"temple"
+]
+},
+{
+"name": "Community center",
+"group": "Funeral and religious",
+"keywords": [
+"community centre",
+"hall hire"
+]
+},
+{
+"name": "Non-profit organization",
+"group": "Funeral and religious",
+"keywords": [
+"charity",
+"non profit"
+]
+},
+{
+"name": "Post office",
+"group": "Government and public",
+"keywords": [
+"post office"
+]
+},
+{
+"name": "Library",
+"group": "Government and public",
+"keywords": [
+"library"
+]
+},
+{
+"name": "Police station",
+"group": "Government and public",
+"keywords": [
+"police"
+]
+},
+{
+"name": "Fire station",
+"group": "Government and public",
+"keywords": [
+"fire station"
+]
+},
+{
+"name": "City government office",
+"group": "Government and public",
+"keywords": [
+"council"
+]
+},
+{
+"name": "Manufacturer",
+"group": "Industrial and B2B",
+"keywords": [
+"manufacturing",
+"factory"
+]
+},
+{
+"name": "Wholesaler",
+"group": "Industrial and B2B",
+"keywords": [
+"wholesale"
+]
+},
+{
+"name": "Warehouse",
+"group": "Industrial and B2B",
+"keywords": [
+"warehouse",
+"warehousing"
+]
+},
+{
+"name": "Logistics service",
+"group": "Industrial and B2B",
+"keywords": [
+"logistics",
+"3pl",
+"fulfilment"
+]
+},
+{
+"name": "Trucking company",
+"group": "Industrial and B2B",
+"keywords": [
+"trucking",
+"haulage",
+"freight"
+]
+},
+{
+"name": "Machine shop",
+"group": "Industrial and B2B",
+"keywords": [
+"machining",
+"cnc"
+]
+},
+{
+"name": "Equipment rental agency",
+"group": "Industrial and B2B",
+"keywords": [
+"equipment hire",
+"plant hire",
+"tool hire"
+]
+},
+{
+"name": "Industrial equipment supplier",
+"group": "Industrial and B2B",
+"keywords": [
+"industrial equipment"
+]
+},
+{
+"name": "Electrical supply store",
+"group": "Industrial and B2B",
+"keywords": [
+"electrical supplies"
+]
+},
+{
+"name": "Plumbing supply store",
+"group": "Industrial and B2B",
+"keywords": [
+"plumbing supplies"
+]
+},
+{
+"name": "Building materials supplier",
+"group": "Industrial and B2B",
+"keywords": [
+"building materials",
+"timber",
+"lumber"
+]
+},
+{
+"name": "Lumber store",
+"group": "Industrial and B2B",
+"keywords": [
+"timber",
+"lumber"
+]
+},
+{
+"name": "Fuel supplier",
+"group": "Industrial and B2B",
+"keywords": [
+"fuel",
+"heating oil"
+]
+},
+{
+"name": "Propane supplier",
+"group": "Industrial and B2B",
+"keywords": [
+"propane",
+"lpg",
+"gas bottles"
+]
+},
+{
+"name": "Water treatment supplier",
+"group": "Industrial and B2B",
+"keywords": [
+"water treatment",
+"water softener",
+"water filter"
+]
+},
+{
+"name": "Recycling center",
+"group": "Industrial and B2B",
+"keywords": [
+"recycling"
+]
+},
+{
+"name": "Scrap metal dealer",
+"group": "Industrial and B2B",
+"keywords": [
+"scrap metal"
+]
+},
+{
+"name": "Office space rental agency",
+"group": "Industrial and B2B",
+"keywords": [
+"office space",
+"coworking"
+]
+},
+{
+"name": "Coworking space",
+"group": "Industrial and B2B",
+"keywords": [
+"coworking",
+"hot desk",
+"shared office"
+]
+},
+{
+"name": "Call center",
+"group": "Industrial and B2B",
+"keywords": [
+"call centre"
+]
+},
+{
+"name": "Security guard service",
+"group": "Industrial and B2B",
+"keywords": [
+"security guards",
+"manned guarding"
+]
+},
+{
+"name": "Cleaning products supplier",
+"group": "Industrial and B2B",
+"keywords": [
+"cleaning supplies"
+]
+},
+{
+"name": "Uniform store",
+"group": "Industrial and B2B",
+"keywords": [
+"uniforms",
+"workwear"
+]
+},
+{
+"name": "Promotional products supplier",
+"group": "Industrial and B2B",
+"keywords": [
+"promotional products",
+"branded merchandise"
+]
+}
+]

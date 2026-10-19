@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Genranq SEO",
+  "short_name": "Genranq",
+  "version": "1.0.0",
+  "description": "Queue site audits, track keywords and save local competitors from Google Search and Google Maps into your Genranq projects.",
+  "minimum_chrome_version": "116",
+  "action": { "default_title": "Genranq", "default_popup": "popup.html" },
+  "background": { "service_worker": "background.js" },
+  "permissions": ["storage", "activeTab"],
+  "optional_host_permissions": ["https://*/*", "http://localhost/*", "http://127.0.0.1/*"],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.google.com/search*", "https://www.google.co.uk/search*", "https://www.google.com.au/search*",
+        "https://www.google.ca/search*", "https://www.google.co.in/search*", "https://www.google.co.nz/search*",
+        "https://www.google.ie/search*", "https://www.google.de/search*", "https://www.google.fr/search*"
+      ],
+      "js": ["content/common.js", "content/google-search.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": [
+        "https://www.google.com/maps/*", "https://www.google.co.uk/maps/*", "https://www.google.com.au/maps/*",
+        "https://www.google.ca/maps/*", "https://www.google.co.in/maps/*", "https://www.google.co.nz/maps/*",
+        "https://www.google.ie/maps/*", "https://www.google.de/maps/*", "https://www.google.fr/maps/*"
+      ],
+      "js": ["content/common.js", "content/google-maps.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

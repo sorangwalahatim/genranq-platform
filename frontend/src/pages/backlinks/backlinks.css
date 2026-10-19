@@ -1,0 +1,22 @@
+/* Backlinks group — small additions on top of the shared design tokens. */
+.bl-kpis { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 12px; margin-bottom: 16px; }
+.bl-kpis .kpi .v.live { color: var(--pass); }
+.bl-kpis .kpi .v.removed { color: var(--critical); }
+.bl-kpis .kpi .v.toxic { color: var(--high); }
+.bl-toolbar { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; padding: 12px 16px; border-bottom: 1px solid var(--line-2); }
+.bl-bulk { display: flex; gap: 8px; align-items: center; padding: 8px 16px; background: var(--accent-soft); border-bottom: 1px solid var(--line-2); font-size: 13px; flex-wrap: wrap; }
+.bl-dl { display: grid; grid-template-columns: 140px 1fr; gap: 6px 12px; font-size: 13.5px; }
+.bl-dl dt { color: var(--muted); }
+.bl-dl dd { margin: 0; word-break: break-word; }
+.bl-timeline { list-style: none; padding: 0; margin: 0; }
+.bl-timeline li { padding: 10px 0; border-bottom: 1px solid var(--line-2); font-size: 13px; }
+.bl-timeline li:last-child { border-bottom: 0; }
+.bl-snippet { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12px; background: var(--surface-2); border: 1px solid var(--line-2); border-radius: 6px; padding: 6px 8px; margin-top: 6px; word-break: break-all; }
+.bl-quote { border-left: 3px solid var(--accent); padding: 4px 10px; margin: 6px 0; color: var(--ink-2); font-size: 13.5px; background: var(--surface-2); border-radius: 0 6px 6px 0; }
+.bl-score { font-family: var(--font-num); font-weight: 600; font-size: 18px; font-variant-numeric: tabular-nums; }
+.bl-cmp th:first-child, .bl-cmp td:first-child { position: sticky; left: 0; background: var(--surface); z-index: 1; }
+.bl-cmp td.best { background: var(--pass-soft); }
+.bl-cmp td.ours { font-weight: 500; }
+.bl-chip { display: inline-block; padding: 1px 7px; border-radius: 10px; background: var(--neutral-soft); font-size: 12px; margin: 2px 4px 2px 0; }
+@media (max-width: 1100px) { .bl-kpis { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 640px) { .bl-kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); } .bl-dl { grid-template-columns: 1fr; } }
